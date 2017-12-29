@@ -1,4 +1,4 @@
-package scala.count
+package myscala.count
 
 import org.apache.spark.{SparkContext, SparkConf}
 

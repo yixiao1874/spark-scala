@@ -1,4 +1,4 @@
-package scala.recommend
+package myscala.recommend
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.mllib.recommendation.ALS
